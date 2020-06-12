@@ -10,7 +10,7 @@ class User
   end 
 
   def last_name
-    @first_name
+    @last_name
   end 
   
   
