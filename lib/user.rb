@@ -1,13 +1,19 @@
 class User 
   
-  def  
+  def first_name
     @first_name = first_name
-    @last_name = last_name
   end 
 
-  def name 
+  def last_name 
+   @last_name = last_name   
+  end 
+  
+  def first_name
     @first_name
-    @last_name    
+  end 
+  
+  def last_name
+    @last_name
   end 
   
   
