@@ -1,5 +1,6 @@
 class User 
-  def name 
+  
+  def  
     @first_name = first_name
     @last_name = last_name
   end 
